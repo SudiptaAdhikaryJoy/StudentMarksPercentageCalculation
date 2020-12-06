@@ -1,2 +1,2 @@
-# StudentMarksPercentageCalcilation
+# StudentMarksPercentageCalculator
 Open Source Technology
